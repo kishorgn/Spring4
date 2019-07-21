@@ -1,2 +1,2 @@
 # Spring4
-Test Read me!!!
+MVC4 and MVC5 are prefectly executed Spring MVC Applications
